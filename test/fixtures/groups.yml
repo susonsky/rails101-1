@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title[标题]: MyString
+  description[详细信息]: MyText
+
+two:
+  title[标题]: MyString
+  description[详细信息]: MyText
